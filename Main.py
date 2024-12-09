@@ -14,7 +14,7 @@ theme_plotly = None
 st.sidebar.image("images/logo2.png")
 
 #title
-st.title("⏱ ONLINE ANALYTICS  DASHBOARD")
+st.title("⏱ WEB-BASED ANALYTICS  DASHBOARD")
 
 # load CSS Style
 with open('style.css')as f:
